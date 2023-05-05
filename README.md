@@ -77,4 +77,4 @@ I will continue to learn these properties and explore them in depth:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Tiyana19](https://www.frontendmentor.io/profile/Tiyana19)
